@@ -11,7 +11,6 @@
 - [Sistema de controle de peso](LogicaComputacional/MARÇO26)
 - [Saudação com nome e idade](LogicaComputacional/ABRIL9)
 - [Loop infinito](LogicaComputacional/ABRIL23)
-- [Exemplo com while](LogicaComputacional/MAIO25)
 - [Idade atual](LogicaComputacional/JULHO11)
 
 ## Sobre mim 
