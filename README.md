@@ -1,7 +1,6 @@
 # Portifoliotecnico2A
 ## TI Autoria pessoal 
 ## Fundamentos de TI
-
 - [Exemplo  for](FundamentosTI/exemplos/Sequencia1atéN.sh)
 - [Exemplo  if](FundamentosTI/exemplos/Atvs16-06/tabuada.sh)
 - [Exemplo while](FundamentosTI/exemplos/Atvs16-06/fatorial.sh)
