@@ -5,16 +5,16 @@
 - [Exemplo  for](FundamentosTI/exemplos/Sequência1ateN.sh)
 - [Exemplo  if](FundamentosTI/exemplos/16-06/tabuada.sh)
 - [Exemplo while](FundamentosTI/exemplos/16-06/fatorial.sh)
-- [Exemplo de código com cut](FundamentosTI/Dia07DeJulho/Exercicio11LetraA.sh)
+- [Exemplo cut](FundamentosTI/Dia07DeJulho/Exercicio11LetraA.sh)
 - [Uso de cut para definir uma variável](FundamentosTI/Dia07DeJulho/Exercicio5Explicado.sh)
 
 ## Lógica Computacional - Códigos
 - [Operações básicas](LogicaComputacional/MARÇO5)
-- [Exercício prático do pescador + peso da pesca](LogicaComputacional/MARÇO12)
-- [Sistema de controle de peso](LogicaComputacional/MARÇO26)
-- [Saudação com nome e idade](LogicaComputacional/ABRIL9)
+- [Pescador + peso da pesca](LogicaComputacional/MARÇO12)
+- [Controle de peso](LogicaComputacional/MARÇO26)
+- [Nome e idade](LogicaComputacional/ABRIL9)
 - [Loop infinito](LogicaComputacional/ABRIL23)
-- [Exemplo com while](LogicaComputacional/MAIO25)
+- [While](LogicaComputacional/MAIO25)
 - [Idade atual](LogicaComputacional/JULHO11)
 - [Óptica geométrica](LogicaComputacional/JULHO18e25)
 
