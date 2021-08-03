@@ -2,8 +2,8 @@
 ## TI Autoria pessoal 
 ## Fundamentos de TI
 - [Exemplo  for](FundamentosTi/exemplos/Sequencia1atéN.sh)
-- [Exemplo  if](FundamentosTi/exemplos/Atvs16-06/tabuada.sh)
-- [Exemplo while](FundamentosTi/exemplos/Atvs16-06/fatorial.sh)
+- [Exemplo  if](FundamentosTi/exemplos/Atvs16-06/AtvTabuada.sh)
+- [Exemplo while](FundamentosTi/exemplos/Atvs16-06/AtvFatorial.sh)
 
 ## Lógica Computacional - Códigos
 - [Operações básicas](LogicaComputacional/MARÇO5)
