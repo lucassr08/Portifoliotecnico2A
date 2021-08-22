@@ -9,7 +9,7 @@
 - [Urs_não_Humanos](FundamentosTi/avaliacao_pratica/Urs_não_Humanos)
 - [Permissões_outros_Urs](FundamentosTi/avaliacao_pratica/Permissões_outros_Urs)
 
-## Lógica Computacional - 
+## Lógica Computacional 
 - [Operações básicas](LogicaComputacional/MARÇO5)
 - [Exercício prático do pescador + peso da pesca](LogicaComputacional/MARÇO12)
 - [Sistema de controle de peso](LogicaComputacional/MARÇO26)
