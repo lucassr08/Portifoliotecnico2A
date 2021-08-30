@@ -1,10 +1,13 @@
 # Portifoliotecnico2A
 ## -LINKS-
 ### Fundamentos de TI
-- [Exemplo  for](FundamentosTi/exemplos/Sequencia1atéN.sh)
-- [Exemplo  if](FundamentosTi/exemplos/Atvs16-06/AtvTabuada.sh)
-- [Exemplo while](FundamentosTi/exemplos/Atvs16-06/AtvFatorial.sh)
-- [Atv Tabuada](FundamentosTi/exemplos/Atvs16-06/AtvTabuada.sh)
+- [Sequencia1atéN](FundamentosTi/exemplos/Sequencia1atéN.sh)
+- [Sequencia1até10](FundamentosTi/exemplos/Sequencia1até10.sh)
+- [Sequencia10até1](FundamentosTi/exemplos/Sequencia10até1.sh)
+- [Anodevotação](FundamentosTi/exemplos/Anodevotação.sh)
+- [PreçoP15.sh](FundamentosTi/exemplos/PreçoP15.sh)
+- [Valorpositivoenegativo](FundamentosTi/exemplos/Valorpositivoenegativo.sh)
+- [Anodevotação](FundamentosTi/exemplos/Anodevotação.sh)
 - [16-06](FundamentosTi/exemplos/Atvs16-06)
 
 ### Avaliação_pratica 
