@@ -4,6 +4,8 @@
 - [Exemplo  for](FundamentosTi/exemplos/Sequencia1atéN.sh)
 - [Exemplo  if](FundamentosTi/exemplos/Atvs16-06/AtvTabuada.sh)
 - [Exemplo while](FundamentosTi/exemplos/Atvs16-06/AtvFatorial.sh)
+- [Atv Tabuada](FundamentosTi/exemplos/Atvs16-06/AtvTabuada.sh)
+- [16-06](FundamentosTi/exemplos/Atvs16-06)
 
 ### Avaliação_pratica 
 - [Urs_não_Humanos](FundamentosTi/avaliacao_pratica/Urs_não_Humanos)
