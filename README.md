@@ -1,14 +1,15 @@
 # Portifoliotecnico2A
-## Fundamentos de TI
+## -LINKS-
+### Fundamentos de TI
 - [Exemplo  for](FundamentosTi/exemplos/Sequencia1atéN.sh)
 - [Exemplo  if](FundamentosTi/exemplos/Atvs16-06/AtvTabuada.sh)
 - [Exemplo while](FundamentosTi/exemplos/Atvs16-06/AtvFatorial.sh)
 
-## Avaliação_pratica 
+### Avaliação_pratica 
 - [Urs_não_Humanos](FundamentosTi/avaliacao_pratica/Urs_não_Humanos)
 - [Permissões_outros_Urs](FundamentosTi/avaliacao_pratica/Permissões_outros_Urs)
 
-## Lógica Computacional 
+### Lógica Computacional 
 - [Operações básicas](LogicaComputacional/MARÇO5)
 - [Exercício prático do pescador + peso da pesca](LogicaComputacional/MARÇO12)
 - [Sistema de controle de peso](LogicaComputacional/MARÇO26)
