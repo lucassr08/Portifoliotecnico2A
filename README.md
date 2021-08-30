@@ -39,5 +39,5 @@ Faço 2 ano do ensino medio no periodo matutino com tecnico de informações int
 - Nome: Lucas Santos da Rosa 
 - Idade: 16 anos 
 - Data de nascimento 08/10/2004 
-- Naturilidade: São jose, SC - Brasil 
+- Naturalidade: São jose, SC - Brasil 
 - Disponibilidade: Periodo vespertino 
