@@ -23,7 +23,7 @@
 - [Idade atual](LogicaComputacional/JUNHO11)
 
 ### Lógica de programação 
-- [Cadastro de aluno]()
+- [Cadastro de aluno](logicaprogramaçao/CadastroAluno)
 - [PetShop]()
 
 ## -AUTORIA PESSOAL- 
