@@ -22,6 +22,9 @@
 - [Loop infinito](LogicaComputacional/ABRIL23)
 - [Idade atual](LogicaComputacional/JUNHO11)
 
+### Lógica de programação 
+- [Cadastro de aluno]()
+- [PetShop]()
 
 ## -AUTORIA PESSOAL- 
 ### Sobre mim 
