@@ -24,7 +24,7 @@
 
 ### Lógica de programação 
 - [Cadastro de aluno](logicaprogramaçao/CadastroAluno)
-- [PetShop]()
+- [PetShop](logicaprogramaçao/PetShop)
 
 ## -AUTORIA PESSOAL- 
 ### Sobre mim 
